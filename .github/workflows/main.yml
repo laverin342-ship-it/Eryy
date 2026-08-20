@@ -34,4 +34,4 @@ jobs:
     - name: Keep Runner Alive
       shell: powershell
       run: |
-        Start-Sleep -Seconds 900
+        Start-Sleep -Seconds 3600
